@@ -1,0 +1,7 @@
+{
+  "ConnectionStrings": {
+    "FptEduDBConn": "Server=(local); uid=sa;pwd=02022001;database=SolidStore;TrustServerCertificate=True"
+  }
+    
+  
+}
